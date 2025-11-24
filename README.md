@@ -1,5 +1,7 @@
 # FizzBuzz
 
+Leela MOTHUKURI
+
 Maven Java project (Java 21) — skeleton for a FizzBuzz implementation.
 
 Structure:
